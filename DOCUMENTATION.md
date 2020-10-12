@@ -10,6 +10,7 @@
 7. [Fenwick Trees](./DS%20implementations/FENWICK%20TREES)
 8. [Stacks](./DS%20implementations/STACKS)
 9. [Queues](./DS%20implementations/QUEUES)
+10. [Linked List](./DS%20implementations/Linked%20List)
 
 ### Important Algorithms
 
@@ -19,6 +20,7 @@
 4. [Graphs](#Graphs)
 5. [String-Matching](#String-Matching)
 6. [Tree Algorithms](#Tree-Algorithms)
+7. [Searching Algorithms](#Searching-Algorithms)
 
 <h2 align="center">Sorting Algos</h2>
 
@@ -27,6 +29,7 @@
 3. [Merge Sort](./Algorithms/Sorting/mergeSort.cpp)
 4. [Selection Sort](./Algorithms/Sorting/selectionSort.cpp)
 5. [Quick Sort](./Algorithms/Sorting/quickSort.cpp)
+6. [Counting Sort](./Algorithms/Sorting/CountingSort.cpp)
 
 <h2 align="center">BackTracking</h2>
 
@@ -76,6 +79,10 @@
 1. [Traversals](./Algorithms/TREES/Traversals)
 2. [LCA](./Algorithms/TREES/LCA)
 3. [BST](./Algorithms/TREES/BST)
+
+<h2 align="center">Searching Algorithms</h2>
+
+1. [Binary Search](./Algorithms/Search/binarySearch.cp)
 
 
 
